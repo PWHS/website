@@ -5,7 +5,7 @@
 }
 .nav-bar {
     background: #FFD700;
-    font-size: 128px;
+    font-size: 96px;
     padding: 32px;
     padding-bottom: 64;
     font-weight: bold;
@@ -29,7 +29,7 @@
 .main-content{
     font-family: Arial, Helvetica, sans-serif;
     padding: 32px;
-    min-height: calc(100vh - 459px);
+    min-height: calc(100vh - 421px);
  
 }
 .main-content h1 {
