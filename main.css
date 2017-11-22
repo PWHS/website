@@ -6,8 +6,10 @@
 
 
 body {
-    background-image: url('assets/favicon.png');
+    background-color: pink;
+    /*background-image: url('assets/frclogo.jpg');
     background-attachment: fixed;
+    */
 }
 
 header{
